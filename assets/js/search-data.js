@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "Academic CV of Amir Hossein Dakhili.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Academic CV of Amir Hossein Dakhili, PhD Candidate in Neuroscience of Addiction and Mental Health at the Healthy Brain and Mind Research Centre, Australian Catholic University.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

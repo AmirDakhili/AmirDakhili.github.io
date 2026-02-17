@@ -3,23 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Amir
-middle_name: Hossein
-last_name: Dakhili
+first_name: You
+middle_name: R.
+last_name: Name
 contact_note: >
-  Hi! I’m Amir Hossein Dakhili, a PhD candidate in the Neuroscience of Addiction and Mental Health Program at the Healthy Brain and Mind Research Centre, Australian Catholic University (ACU), under the supervision of Prof Valentina Lorenzetti, Dr Chao Suo and Dr Govinda Poudel. My research focuses on understanding the neural mechanisms underlying addiction, with particular interests in cannabis use disorder, methamphetamine use, and behavioral addictions such as gambling.
- My work combines ultra-high-field (7T) fMRI, real-time neuroimaging, and advanced off-line analysis pipelines to investigate how brain networks support craving, and cognitive control. A central focus of my current research is real-time fMRI neurofeedback targeting the anterior cingulate cortex (ACC), where I examine whether individuals can volitionally modulate brain activity and how these neural changes relate to subjective craving and learning across sessions.
- To read more about my current and past research projects, check out my Projects page.
- Outside of research, I enjoy cooking, exploring nature and staying active.
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: fMRI, neuroimaging, addiction # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: "https://amirdakhili.github.io"
 baseurl: ""
@@ -158,15 +155,15 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  Publications:
+  books:
     output: true
-  Projects:
+  news:
     defaults:
       layout: post
     output: true
   projects:
     output: true
-  Presentations:
+  teachings:
     output: true
 
 # -----------------------------------------------------------------------------

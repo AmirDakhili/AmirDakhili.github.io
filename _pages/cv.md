@@ -1,16 +1,14 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
-
-cv_pdf: /assets/pdf/ccc.pdf  # make sure the filename matches exactly
-cv_format: pdf
-
-description: >
-  Academic CV of Amir Hossein Dakhili, PhD Candidate in Neuroscience of Addiction and Mental Health at the Healthy Brain and Mind Research Centre, Australian Catholic University.
-
-toc:
-  sidebar: left
 ---
+
+<iframe 
+  src="/assets/pdf/ccc.pdf" 
+  width="100%" 
+  height="1000px" 
+  style="border: none;">
+</iframe>

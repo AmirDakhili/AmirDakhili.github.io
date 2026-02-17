@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 nav: true
 nav_order: 5
+description: Academic CV of Amir Hossein Dakhili.
 ---
 
 <iframe 

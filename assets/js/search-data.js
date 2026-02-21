@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-presentations",
+          title: "Presentations",
+          description: "Conference talks, posters, and symposium contributions.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Academic CV of Amir Hossein Dakhili.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-presentations",
-          title: "presentations",
-          description: "Conference presentations, posters, and recorded talks.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/presentations/";
           },
         },{id: "post-a-post-with-plotly-js",
         

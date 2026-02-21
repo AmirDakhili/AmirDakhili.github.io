@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'Custom_linkedin',
         section: 'Socials',
         handler: () => {
-          window.open("www.linkedin.com/in/amir-hossein-dakhili-257b88140", "_blank");
+          window.open("https://www.linkedin.com/in/amir-hossein-dakhili-257b88140", "_blank");
         },
       },{
         id: 'social-custom_X',

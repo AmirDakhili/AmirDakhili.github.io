@@ -10,11 +10,17 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+  <h2>Published / Accepted</h2>
+  {% bibliography --query @*[status=published] %}
+
+  <h2>Under Review</h2>
+  {% bibliography --query @*[status=underreview] %}
+
+  <h2>In Preparation</h2>
+  {% bibliography --query @*[status=inprep] %}
 
 </div>

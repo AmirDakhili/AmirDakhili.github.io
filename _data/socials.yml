@@ -8,16 +8,19 @@ email: amirhosseindakhilii@gmail.com # your email address
 scholar_userid: Rr-P5ZIAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social:
+custom_Linkedin:
   logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg
   title: LinkedIn
   url: https://www.linkedin.com/in/amir-hossein-dakhili/
+custom_X:
   logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg
   title: X (Twitter)
   url: https://x.com/AmirHDakhili
+custom_ResearchGate:  
   logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg
   title: ResearchGate
   url: https://www.researchgate.net/profile/Amir-Hossein-Dakhili
+custom_GitHub:
   logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg
   title: Addiction Program GitHub
   url: https://github.com/addiction-program

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations
+title: presentations
 permalink: /presentations/
 nav: true
 nav_order: 4
@@ -14,10 +14,17 @@ Below is a curated list of my symposium contributions, oral presentations, and p
 ## Symposium
 
 - **fMRI-based neurofeedback: a tool to probe & target neurocircuitry across health & disease**  
-  *Organization for Human Brain Mapping (OHBM) International Conference — Brisbane, Australia — June 2025* :contentReference[oaicite:0]{index=0}  
+  *Organization for Human Brain Mapping (OHBM) International Conference — Brisbane, Australia — June 2025* 
   **Authors:** V Lorenzetti, C Suo, R Glarin, S Ganesan, E Murphy, **A Dakhili**, E Pozzi  
   **Media:**  
-  - [Video recording](https://www.youtube.com/watch?v=KcFXgKfbgJQ)  
+  - [Video recording](https://www.youtube.com/watch?v=KcFXgKfbgJQ)
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/KcFXgKfbgJQ"
+title="OHBM talk"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
 
 ---
 

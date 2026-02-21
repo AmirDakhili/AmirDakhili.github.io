@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-presentations",
-          title: "Presentations",
+          title: "presentations",
           description: "Conference talks, posters, and symposium contributions.",
           section: "Navigation",
           handler: () => {

@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'Custom_linkedin',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/amir-hossein-dakhili/", "_blank");
+          window.open("www.linkedin.com/in/amir-hossein-dakhili-257b88140", "_blank");
         },
       },{
         id: 'social-custom_X',
@@ -504,7 +504,7 @@ ninja.data = [{
         title: 'Custom_github',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/addiction-program", "_blank");
+          window.open("https://github.com/addiction-program/neurofeedback", "_blank");
         },
       },{
       id: 'light-theme',

@@ -32,7 +32,7 @@ allowfullscreen>
 
 - **Probing the Craving Neurocircuitry in Cannabis Use Disorder Using Real-Time fMRI Neurofeedback**  
   *Australasian Cognitive Neuroscience Society (ACNS) Conference — Melbourne, Australia — November 2025*
-  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti
+  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti  
   **Media:**   
   - [Slides (PDF)](/assets/pdf/ACNS.pdf)
 
@@ -55,7 +55,7 @@ allowfullscreen>
 
 - **Probing the Craving Neurocircuitry in Cannabis Use Disorder Using Real-Time fMRI Neurofeedback**  
   *Australasian Society of Psychophysiology (ASP) Conference — Canberra, Australia — November 2025*
-  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti
+  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti  
   **Media:**  
   - [Poster (PDF)](/assets/pdf/Craving.pdf)
 
@@ -65,7 +65,7 @@ allowfullscreen>
 
 - **A setup for real-time fMRI Neurofeedback for Cannabis Craving: A Pilot Study**  
   *OHBM International Conference — Brisbane, Australia — June 2025*
-  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti
+  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti  
   **Media:**  
   - [Poster (PDF)](/assets/pdf/Methods.pdf)
 

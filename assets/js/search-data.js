@@ -507,8 +507,29 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=Rr-P5ZIAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-custom_Linkedin',
+        title: 'Custom_linkedin',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/amir-hossein-dakhili/", "_blank");
+        },
+      },{
+        id: 'social-custom_X',
+        title: 'Custom_x',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://x.com/AmirHDakhili", "_blank");
+        },
+      },{
+        id: 'social-custom_ResearchGate',
+        title: 'Custom_researchgate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Amir-Hossein-Dakhili", "_blank");
+        },
+      },{
+        id: 'social-custom_GitHub',
+        title: 'Custom_github',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/addiction-program", "_blank");

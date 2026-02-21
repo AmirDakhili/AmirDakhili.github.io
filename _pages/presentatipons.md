@@ -7,7 +7,7 @@ nav_order: 4
 description: Conference talks, posters, and symposium contributions.
 ---
 
-Below is a curated list of my symposium contributions, oral presentations, and posters.  
+Below is a list of my symposium contributions, oral presentations, and posters.  
 
 ---
 
@@ -31,47 +31,46 @@ allowfullscreen>
 ## Oral presentations
 
 - **Probing the Craving Neurocircuitry in Cannabis Use Disorder Using Real-Time fMRI Neurofeedback**  
-  *Australasian Cognitive Neuroscience Society (ACNS) Conference — Melbourne, Australia — November 2025* :contentReference[oaicite:2]{index=2}  
+  *Australasian Cognitive Neuroscience Society (ACNS) Conference — Melbourne, Australia — November 2025*
   **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti
-  **Media:**  
-  - Video: *(add link)*  
-  - Slides: *(add link or PDF path)*
+  **Media:**   
+  - [Slides (PDF)](/assets/pdf/ACNS.pdf)
 
 - **Methodological and Conceptual Aspects of fMRI Cue Reactivity Studies: Example of a Mixed Go-No Go Drug Cue-Reactivity Study**  
-  *14th International Addiction Science Congress (ASC) — Online — October 2020* :contentReference[oaicite:4]{index=4}  
-  **Authors:** **A Dakhili**, H Ekhtiari, A Sangchooli, H Mohaddes Ardebili, A Khojasteh, S Jafakesh :contentReference[oaicite:5]{index=5}  
+  *14th International Addiction Science Congress (ASC) — Online — October 2020*
+  **Authors:** **A Dakhili**, H Ekhtiari, A Sangchooli, H Mohaddes Ardebili, A Khojasteh, S Jafakesh
   **Media:**  
-  - Video: *(add link)*  
-  - Slides: *(add link or PDF path)*
+  - [Video recording](https://www.youtube.com/watch?v=rICMBWhenJc)
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/rICMBWhenJc"
+title="ASC talk"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
 
 ---
 
 ## Posters
 
 - **Probing the Craving Neurocircuitry in Cannabis Use Disorder Using Real-Time fMRI Neurofeedback**  
-  *Australasian Society of Psychophysiology (ASP) Conference — Canberra, Australia — November 2025* :contentReference[oaicite:6]{index=6}  
-  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti :contentReference[oaicite:7]{index=7}  
+  *Australasian Society of Psychophysiology (ASP) Conference — Canberra, Australia — November 2025*
+  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti
   **Media:**  
-  - Poster PDF: *(upload then link, e.g. `/assets/pdf/posters/ASP_2025.pdf`)*
+  - [Poster (PDF)](/assets/pdf/Craving.pdf)
 
 - **Mapping & Modulating the Activity of the Craving Neurocircuitry in Cannabis Addiction: A Real-time fMRI Neurofeedback Setup**  
-  *OHBM Australian Chapter Meeting and Maths in Brain — Melbourne, Australia — November 2025* :contentReference[oaicite:8]{index=8}  
-  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, V Manning, H. Valerie Curran, A Honnedevasthana Arun, C Suo, V Lorenzetti :contentReference[oaicite:9]{index=9}  
-  **Media:**  
-  - Poster PDF: *(upload then link)*
+  *OHBM Australian Chapter Meeting and Maths in Brain — Melbourne, Australia — November 2025*
+  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, V Manning, H. Valerie Curran, A Honnedevasthana Arun, C Suo, V Lorenzetti
 
 - **A setup for real-time fMRI Neurofeedback for Cannabis Craving: A Pilot Study**  
-  *OHBM International Conference — Brisbane, Australia — June 2025* :contentReference[oaicite:10]{index=10}  
-  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti :contentReference[oaicite:11]{index=11}  
+  *OHBM International Conference — Brisbane, Australia — June 2025*
+  **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, R Glarin, C Suo, V Lorenzetti
   **Media:**  
-  - Poster PDF: *(upload then link)*
+  - [Poster (PDF)](/assets/pdf/Methods.pdf)
 
 - **Mapping & Modulating the Activity of the Craving Neurocircuitry in Cannabis Addiction: A Real-time fMRI Neurofeedback Setup**  
-  *OHBM Australian Chapter Meeting and Maths in Brain — Melbourne, Australia — November 2024* :contentReference[oaicite:12]{index=12}  
-  **Media:**  
-  - Poster PDF: *(upload then link)*
+  *OHBM Australian Chapter Meeting and Maths in Brain — Melbourne, Australia — November 2024*
 
 - **CT Scan cancer risks**  
-  *33rd Iranian Congress of Radiology — Tehran, Iran — May 2017* :contentReference[oaicite:13]{index=13}  
-  **Media:**  
-  - Poster/Slides: *(add link if you have it)*
+  *33rd Iranian Congress of Radiology — Tehran, Iran — May 2017*

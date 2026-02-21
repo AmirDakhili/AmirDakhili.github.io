@@ -38,7 +38,7 @@ allowfullscreen>
 
 - **Methodological and Conceptual Aspects of fMRI Cue Reactivity Studies: Example of a Mixed Go-No Go Drug Cue-Reactivity Study**  
   *14th International Addiction Science Congress (ASC) — Online — October 2020*
-  **Authors:** **A Dakhili**, H Ekhtiari, A Sangchooli, H Mohaddes Ardebili, A Khojasteh, S Jafakesh
+  **Authors:** **A Dakhili**, H Ekhtiari, A Sangchooli, H Mohaddes Ardebili, A Khojasteh, S Jafakesh  
   **Media:**  
   - [Video recording](https://www.youtube.com/watch?v=rICMBWhenJc)
 <iframe width="100%" height="420"

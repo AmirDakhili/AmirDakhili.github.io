@@ -24,4 +24,4 @@ Hi! I’m Amir Hossein Dakhili, a PhD candidate in the Neuroscience of Addiction
 
 My work combines ultra-high-field (7T) fMRI, real-time neuroimaging, and off-line analysis pipelines to investigate how brain networks support craving, cognitive control and decision making. A central focus of my current research is ROI-based real-time fMRI neurofeedback, where I examine whether individuals with cannabis use disorder can volitionally modulate brain activity and how these neural changes relate to subjective craving and learning across sessions.
 
-To read more about my current and past research projects, check out my [projects page](https://amirdakhili.github.io/projects/).
+

@@ -1,8 +1,8 @@
 github_users:
   - AmirDakhili
+  - addiction-program
 
 repo_description_lines_max: 2
 
 github_repos:
-  - addiction-program/neurofeedback
-
+  - neurofeedback

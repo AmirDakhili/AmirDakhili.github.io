@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Real-time fMRI neurofeedback and cue reactivity experiment suite for addiction and mental health research.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "Academic CV of Amir Hossein Dakhili.",

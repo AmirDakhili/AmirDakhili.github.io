@@ -3,6 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Real-time fMRI neurofeedback and cue reactivity experiment suite for addiction and mental health research.
+nav: true
 nav_order: 4
 ---
 

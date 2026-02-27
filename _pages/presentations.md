@@ -59,7 +59,7 @@ allowfullscreen>
   **Media:**  
   - [Poster (PDF)](/assets/pdf/Craving.pdf)
 
-- **Probing the Craving Neurocircuitry in Cannabis Use Disorder: A Real-time fMRI Neurofeedback study**  
+- **Investigating Upregulation of Craving Neurocircuitry in Cannabis Use Disorder: A Real-time fMRI Neurofeedback study**  
   *OHBM Australian Chapter Meeting and Maths in Brain — Melbourne, Australia — November 2025*
   **Authors:** **A Dakhili**, E Murphy, S Ganesan, G Poudel, A Paloubis, S Lin, B Moffat, A Zalesky, V Manning, H. Valerie Curran, A Honnedevasthana Arun, C Suo, V Lorenzetti
 

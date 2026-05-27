@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-27'
 papers:
   Rr-P5ZIAAAAJ:2osOgNQ5qMEC:
-    citations: 15
+    citations: 16
     title: Temporally dynamic neural correlates of drug cue reactivity, response inhibition, and methamphetamine-related response inhibition in people with methamphetamine use disorder
     year: '2022'
   Rr-P5ZIAAAAJ:9yKSN-GCB0IC:
-    citations: 31
+    citations: 32
     title: 'Cue-induced craving and negative emotion disrupt response inhibition in methamphetamine use disorder: Behavioral and fMRI results from a mixed Go/No-Go task'
     year: '2022'
   Rr-P5ZIAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: 'CannChange: using functional magnetic resonance imaging-based neurofeedback to change the neurobiology of craving in cannabis use disorder'
     year: '2026'
   Rr-P5ZIAAAAJ:UeHWp8X0CEIC:
-    citations: 1
+    citations: 2
     title: 'CannChange: a protocol for a feasibility study using fMRI-based neurofeedback to change the neurobiology of craving in cannabis use disorder'
     year: '2025'
   Rr-P5ZIAAAAJ:W7OEmFMy1HYC:
@@ -28,6 +28,10 @@ papers:
   Rr-P5ZIAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Smelling decides: fMRI evidence reveals the influence of olfactory stimuli on risky decision-making'
+    year: '2026'
+  Rr-P5ZIAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: 'Exploring fMRI-neurofeedback to reduce craving-related brain activity in people with cannabis use Disorder: A feasibility study'
     year: '2026'
   Rr-P5ZIAAAAJ:zYLM7Y9cAGgC:
     citations: 0
